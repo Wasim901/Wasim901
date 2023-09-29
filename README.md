@@ -9,14 +9,14 @@
 
 Here are some ideas to get you started:
 
-🌱 I’m currently learning Java
+⚫ 🌱 I’m currently learning Java
 
-👯 I’m looking to collaborate on Backend projects
+⚫ 👯 I’m looking to collaborate on Backend projects
 
-🔭 I’m currently working on an Online Customer Service Web application
+⚫ 🔭 I’m currently working on an Online Customer Service Web application
 
-👨‍💻 All of my projects are available at https://wasim901.github.io
+⚫ 👨‍💻 All of my projects are available at https://wasim901.github.io
 
-💬 Ask me about JAVA Spring Hibernate MySQL HTML CSS JavaScript BootStrap and DSA
+⚫ 💬 Ask me about JAVA Spring Hibernate MySQL HTML CSS JavaScript BootStrap and DSA
 
-📫 How to reach me 55456khanaahmad@gmail.com
+⚫ 📫 How to reach me 55456khanaahmad@gmail.com
