@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Wasim901/Wasim901/assets/119388217/a87f1289-8e77-47a7-ab18-47fdeb53ee7b" width="100%" height="100px">
+  <img src="https://github.com/Wasim901/Wasim901/assets/119388217/b480d463-f3f3-414c-8743-1102ef1b15e9" width="100%" height="100px">
 </p>
 
 
