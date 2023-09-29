@@ -5,24 +5,37 @@
 
 
 <div align="center">
-  <h2 style="color: #6c757d;">🌱 Currently Learning</h2>
-  <p style="font-size: 18px; color: #333;">Java</p>
+  <div style="background-color: #007bff; padding: 10px; border-radius: 5px;">
+    <h2 style="color: #fff;">🌱 Currently Learning</h2>
+    <p style="font-size: 18px; color: #333;">Java</p>
+  </div>
 
-  <h2 style="color: #6c757d;">👯 Looking to Collaborate On</h2>
-  <p style="font-size: 18px; color: #333;">Backend Projects</p>
+  <div style="background-color: #f0ad4e; padding: 10px; border-radius: 5px;">
+    <h2 style="color: #fff;">👯 Looking to Collaborate On</h2>
+    <p style="font-size: 18px; color: #333;">Backend Projects</p>
+  </div>
 
-  <h2 style="color: #6c757d;">🔭 Currently Working On</h2>
-  <p style="font-size: 18px; color: #333;">Online Customer Service Web Application</p>
+  <div style="background-color: #5bc0de; padding: 10px; border-radius: 5px;">
+    <h2 style="color: #fff;">🔭 Currently Working On</h2>
+    <p style="font-size: 18px; color: #333;">Online Customer Service Web Application</p>
+  </div>
 
-  <h2 style="color: #6c757d;">👨‍💻 Portfolio</h2>
-  <p style="font-size: 18px;"><a href="https://wasim901.github.io" style="color: #007bff; text-decoration: none;">Check out my projects</a></p>
+  <div style="background-color: #5bc0de; padding: 10px; border-radius: 5px;">
+    <h2 style="color: #fff;">👨‍💻 Portfolio</h2>
+    <p style="font-size: 18px;"><a href="https://wasim901.github.io" style="color: #007bff; text-decoration: none;">Check out my projects</a></p>
+  </div>
 
-  <h2 style="color: #6c757d;">💬 Ask Me About</h2>
-  <p style="font-size: 18px; color: #333;">Java, Spring, Hibernate, MySQL, HTML, CSS, JavaScript, Bootstrap, and Data Structures & Algorithms</p>
+  <div style="background-color: #28a745; padding: 10px; border-radius: 5px;">
+    <h2 style="color: #fff;">💬 Ask Me About</h2>
+    <p style="font-size: 18px; color: #333;">Java, Spring, Hibernate, MySQL, HTML, CSS, JavaScript, Bootstrap, and Data Structures & Algorithms</p>
+  </div>
 
-  <h2 style="color: #6c757d;">📫 How to Reach Me</h2>
-  <p style="font-size: 18px; color: #333;">Email: 55456khanaahmad@gmail.com</p>
+  <div style="background-color: #6c757d; padding: 10px; border-radius: 5px;">
+    <h2 style="color: #fff;">📫 How to Reach Me</h2>
+    <p style="font-size: 18px; color: #333;">Email: 55456khanaahmad@gmail.com</p>
+  </div>
 </div>
+
 
 
 
