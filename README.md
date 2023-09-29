@@ -1,12 +1,10 @@
 
-
+<h1 align="center">Hi 👋, I'm Wasim Ahmad</h1>
 <p align="center">
   <img src="https://github.com/Wasim901/Wasim901/assets/119388217/f447a83d-7355-4886-9648-b3c7b748a686" width="1200px" height="220px">
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<h1 align="center">Hi 👋, I'm Wasim Ahmad</h1>
 
 # 💫 About Me:
 🌱 I’m currently learning Java
