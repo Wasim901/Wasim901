@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 You can connect with me on **LinkedIn** or reach out via **Email**:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wasimahmad9/){:target="_blank"}
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wasimahmad9/){target="_blank"}
 - Email: 55456khanahmad@gmail.com>
 
 
