@@ -4,24 +4,17 @@
 </p>
 
 
-### Currently Learning 🌱
-- Java
+• 🌱 I’m currently learning Java
 
-### Looking to Collaborate On 👯
-- Backend Projects
+• 👯 I’m looking to collaborate on Backend projects
 
-### Currently Working On 🔭
-- Online Customer Service Web Application
+• 🔭 I’m currently working on an Online Customer Service Web application
 
-### Portfolio 👨‍💻
-- [Check out my projects](https://wasim901.github.io)
+• 👨‍💻 All of my projects are available at https://wasim901.github.io
 
-### Ask Me About 💬
-- Java, Spring, Hibernate, MySQL, HTML, CSS, JavaScript, Bootstrap, and Data Structures & Algorithms
+• 💬 Ask me about JAVA Spring Hibernate MySQL HTML CSS JavaScript BootStrap and DSA
 
-### How to Reach Me 📫
-- Email: 55456khanaahmad@gmail.com
-
+• 📫 How to reach me 55456khanaahmad@gmail.com
 
 
 
