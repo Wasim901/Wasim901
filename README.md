@@ -22,46 +22,11 @@ Here are some ideas to get you started:
 • 📫 How to reach me 55456khanaahmad@gmail.com
 
 
-### Contact Me
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Buttons</title>
-    <style>
-        .contact-buttons {
-            display: flex;
-            gap: 10px;
-        }
+### Connect with Me
 
-        .linkedin-button,
-        .email-button {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #0077B5; /* LinkedIn blue */
-            color: #fff;
-            text-decoration: none;
-            border-radius: 5px;
-            font-weight: bold;
-            transition: background-color 0.3s ease;
-        }
+You can connect with me on **LinkedIn** or reach out via **Email**:
 
-        .email-button {
-            background-color: #FFA500; /* Orange */
-        }
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
+- Email: 55456khanahmad@gmail.com>
 
-        .linkedin-button:hover,
-        .email-button:hover {
-            background-color: #00548B; /* Darker LinkedIn blue */
-        }
-    </style>
-</head>
-<body>
-    <div class="contact-buttons">
-        <a href="https://www.linkedin.com/in/yourusername/" class="linkedin-button">LinkedIn</a>
-        <a href="mailto:your.email@example.com" class="email-button">Email</a>
-    </div>
-</body>
-</html>
 
