@@ -1,5 +1,8 @@
 
-![matrix-4646234_1280](https://github.com/Wasim901/Wasim901/assets/119388217/503a5717-3cd2-4036-b8fe-67a23312edce)
+
+<p align="center">
+  <img src="https://github.com/Wasim901/Wasim901/assets/119388217/27c75d4d-96af-43d4-9a6a-e5d7b246882d" width="100%" height="auto">
+</p>
 
 
 <!--
