@@ -8,7 +8,17 @@
 <h1 align="center">Hi 👋, I'm Wasim Ahmad</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🌱 I’m currently learning Java
+
+👯 I’m looking to collaborate on Backend projects
+
+🔭 I’m currently working on an Online Customer Service Web application
+
+👨‍💻 All of my projects are available at https://wasim901.github.io
+
+💬 Ask me about JAVA Spring Hibernate MySQL HTML CSS JavaScript BootStrap and DSA
+
+📫 How to reach me 55456khanaahmad@gmail.com
 
 
 ## 🌐 Socials:
