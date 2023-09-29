@@ -20,3 +20,11 @@ Here are some ideas to get you started:
 • 💬 Ask me about JAVA Spring Hibernate MySQL HTML CSS JavaScript BootStrap and DSA
 
 • 📫 How to reach me 55456khanaahmad@gmail.com
+
+
+### Contact Me
+
+You can reach out to me through the following channels:
+
+- LinkedIn: [![LinkedIn](https://www.linkedin.com/in/wasimahmad9/)
+- Email: [your.email@example.com](mailto:your.55456khanahmad@gmail.com)
