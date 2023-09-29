@@ -23,8 +23,45 @@ Here are some ideas to get you started:
 
 
 ### Contact Me
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Buttons</title>
+    <style>
+        .contact-buttons {
+            display: flex;
+            gap: 10px;
+        }
 
-You can reach out to me through the following channels:
+        .linkedin-button,
+        .email-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #0077B5; /* LinkedIn blue */
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
 
-- LinkedIn: [![LinkedIn](https://www.linkedin.com/in/wasimahmad9/)
-- Email: [your.email@example.com](mailto:your.55456khanahmad@gmail.com)
+        .email-button {
+            background-color: #FFA500; /* Orange */
+        }
+
+        .linkedin-button:hover,
+        .email-button:hover {
+            background-color: #00548B; /* Darker LinkedIn blue */
+        }
+    </style>
+</head>
+<body>
+    <div class="contact-buttons">
+        <a href="https://www.linkedin.com/in/yourusername/" class="linkedin-button">LinkedIn</a>
+        <a href="mailto:your.email@example.com" class="email-button">Email</a>
+    </div>
+</body>
+</html>
+
