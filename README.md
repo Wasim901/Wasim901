@@ -4,37 +4,23 @@
 </p>
 
 
-<div align="center">
-  <div style="background-color: #007bff; padding: 10px; border-radius: 5px;">
-    <h2 style="color: #fff;">🌱 Currently Learning</h2>
-    <p style="font-size: 18px; color: #333;">Java</p>
-  </div>
+### Currently Learning 🌱
+- Java
 
-  <div style="background-color: #f0ad4e; padding: 10px; border-radius: 5px;">
-    <h2 style="color: #fff;">👯 Looking to Collaborate On</h2>
-    <p style="font-size: 18px; color: #333;">Backend Projects</p>
-  </div>
+### Looking to Collaborate On 👯
+- Backend Projects
 
-  <div style="background-color: #5bc0de; padding: 10px; border-radius: 5px;">
-    <h2 style="color: #fff;">🔭 Currently Working On</h2>
-    <p style="font-size: 18px; color: #333;">Online Customer Service Web Application</p>
-  </div>
+### Currently Working On 🔭
+- Online Customer Service Web Application
 
-  <div style="background-color: #5bc0de; padding: 10px; border-radius: 5px;">
-    <h2 style="color: #fff;">👨‍💻 Portfolio</h2>
-    <p style="font-size: 18px;"><a href="https://wasim901.github.io" style="color: #007bff; text-decoration: none;">Check out my projects</a></p>
-  </div>
+### Portfolio 👨‍💻
+- [Check out my projects](https://wasim901.github.io)
 
-  <div style="background-color: #28a745; padding: 10px; border-radius: 5px;">
-    <h2 style="color: #fff;">💬 Ask Me About</h2>
-    <p style="font-size: 18px; color: #333;">Java, Spring, Hibernate, MySQL, HTML, CSS, JavaScript, Bootstrap, and Data Structures & Algorithms</p>
-  </div>
+### Ask Me About 💬
+- Java, Spring, Hibernate, MySQL, HTML, CSS, JavaScript, Bootstrap, and Data Structures & Algorithms
 
-  <div style="background-color: #6c757d; padding: 10px; border-radius: 5px;">
-    <h2 style="color: #fff;">📫 How to Reach Me</h2>
-    <p style="font-size: 18px; color: #333;">Email: 55456khanaahmad@gmail.com</p>
-  </div>
-</div>
+### How to Reach Me 📫
+- Email: 55456khanaahmad@gmail.com
 
 
 
