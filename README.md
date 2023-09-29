@@ -5,24 +5,25 @@
 
 
 <div align="center">
-  <h3>🌱 Currently Learning:</h3>
-  <p>Java</p>
+  <h2 style="color: #6c757d;">🌱 Currently Learning</h2>
+  <p style="font-size: 18px; color: #333;">Java</p>
 
-  <h3>👯 Looking to Collaborate On:</h3>
-  <p>Backend Projects</p>
+  <h2 style="color: #6c757d;">👯 Looking to Collaborate On</h2>
+  <p style="font-size: 18px; color: #333;">Backend Projects</p>
 
-  <h3>🔭 Currently Working On:</h3>
-  <p>Online Customer Service Web Application</p>
+  <h2 style="color: #6c757d;">🔭 Currently Working On</h2>
+  <p style="font-size: 18px; color: #333;">Online Customer Service Web Application</p>
 
-  <h3>👨‍💻 Portfolio:</h3>
-  <p><a href="https://wasim901.github.io">Check out my projects</a></p>
+  <h2 style="color: #6c757d;">👨‍💻 Portfolio</h2>
+  <p style="font-size: 18px;"><a href="https://wasim901.github.io" style="color: #007bff; text-decoration: none;">Check out my projects</a></p>
 
-  <h3>💬 Ask Me About:</h3>
-  <p>Java, Spring, Hibernate, MySQL, HTML, CSS, JavaScript, Bootstrap, and Data Structures & Algorithms</p>
+  <h2 style="color: #6c757d;">💬 Ask Me About</h2>
+  <p style="font-size: 18px; color: #333;">Java, Spring, Hibernate, MySQL, HTML, CSS, JavaScript, Bootstrap, and Data Structures & Algorithms</p>
 
-  <h3>📫 How to Reach Me:</h3>
-  <p>Email: 55456khanaahmad@gmail.com</p>
+  <h2 style="color: #6c757d;">📫 How to Reach Me</h2>
+  <p style="font-size: 18px; color: #333;">Email: 55456khanaahmad@gmail.com</p>
 </div>
+
 
 
 
