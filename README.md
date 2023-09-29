@@ -4,22 +4,26 @@
 </p>
 
 
+<div align="center">
+  <h3>🌱 Currently Learning:</h3>
+  <p>Java</p>
 
-**Wasim901/Wasim901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3>👯 Looking to Collaborate On:</h3>
+  <p>Backend Projects</p>
 
-Here are some ideas to get you started:
+  <h3>🔭 Currently Working On:</h3>
+  <p>Online Customer Service Web Application</p>
 
-• 🌱 I’m currently learning Java
+  <h3>👨‍💻 Portfolio:</h3>
+  <p><a href="https://wasim901.github.io">Check out my projects</a></p>
 
-• 👯 I’m looking to collaborate on Backend projects
+  <h3>💬 Ask Me About:</h3>
+  <p>Java, Spring, Hibernate, MySQL, HTML, CSS, JavaScript, Bootstrap, and Data Structures & Algorithms</p>
 
-• 🔭 I’m currently working on an Online Customer Service Web application
+  <h3>📫 How to Reach Me:</h3>
+  <p>Email: 55456khanaahmad@gmail.com</p>
+</div>
 
-• 👨‍💻 All of my projects are available at https://wasim901.github.io
-
-• 💬 Ask me about JAVA Spring Hibernate MySQL HTML CSS JavaScript BootStrap and DSA
-
-• 📫 How to reach me 55456khanaahmad@gmail.com
 
 
 ### Connect with Me
