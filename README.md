@@ -8,12 +8,13 @@
 
 # 💫 About Me:
 🌱 I’m currently learning Java
+[Portfolio](https://Wasim901.github.io)
 
 👯 I’m looking to collaborate on Backend projects
 
 🔭 I’m currently working on an Online Customer Service Web application
 
-👨‍💻 All of my projects are available at https://wasim901.github.io
+
 
 💬 Ask me about JAVA Spring Hibernate MySQL HTML CSS JavaScript BootStrap and DSA
 
